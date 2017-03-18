@@ -22,3 +22,77 @@ select,
 textarea {
     max-width: 280px;
 }
+
+/* Bootstrap Overrides */
+
+    .navbar-inverse {
+        background-color: #ff4342;
+        border-color: #ff4342;
+    }
+
+    .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
+        background-color: rgba(210, 47, 46, 0.91);
+    }
+
+    .navbar-inverse .navbar-brand {
+        color: #fff;
+    }
+
+    .navbar-inverse .navbar-nav > li > a {
+        color: #fff;
+    }
+    
+    .navbar-inverse .navbar-nav > .dropdown > a .caret {
+        border-top-color: #fff;
+        border-bottom-color: #fff;
+    }
+    .navbar-brand {
+        font-size: 24px;    
+        font-weight: 700;
+    }
+
+body {
+    font-size: 18px;
+    background-color: #cccccc;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+    font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    line-height: 1.1;
+}
+
+h2, .h2 {
+    font-size: 40px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+.form-control {
+    font-size: 17px;
+    border-radius: 10px;
+    background-color: #e6e6e6;
+    margin-bottom: 20px;
+}
+
+.jumbotron {
+    background-color: #a7a7a7;
+}
+
+.btn {
+    font-size: 17px;
+    border-radius: 10px;
+}
