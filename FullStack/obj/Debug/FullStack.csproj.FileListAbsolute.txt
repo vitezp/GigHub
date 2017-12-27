@@ -1,180 +1,268 @@
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\ApplicationInsights.config
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\roslyn\csc.exe
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\roslyn\Microsoft.CodeAnalysis.dll
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\roslyn\Microsoft.CSharp.Core.targets
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\roslyn\Microsoft.VisualBasic.Core.targets
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\roslyn\System.Collections.Immutable.dll
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\roslyn\System.Reflection.Metadata.dll
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\roslyn\vbc.exe
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\roslyn\VBCSCompiler.exe
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\roslyn\VBCSCompiler.exe.config
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\FullStack.dll.config
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\FullStack.dll
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\FullStack.pdb
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\Antlr3.Runtime.dll
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\EntityFramework.dll
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\EntityFramework.SqlServer.dll
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\Microsoft.AI.Agent.Intercept.dll
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\Microsoft.AI.DependencyCollector.dll
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\Microsoft.AI.PerfCounterCollector.dll
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\Microsoft.AI.ServerTelemetryChannel.dll
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\Microsoft.AI.Web.dll
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\Microsoft.AI.WindowsServer.dll
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\Microsoft.ApplicationInsights.dll
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\Microsoft.AspNet.Identity.Core.dll
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\Microsoft.AspNet.Identity.Owin.dll
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\Microsoft.Owin.dll
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\Microsoft.Owin.Host.SystemWeb.dll
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\Microsoft.Owin.Security.Cookies.dll
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\Microsoft.Owin.Security.dll
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\Microsoft.Owin.Security.Facebook.dll
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\Microsoft.Owin.Security.Google.dll
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\Microsoft.Owin.Security.OAuth.dll
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\Microsoft.Owin.Security.Twitter.dll
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\Microsoft.Web.Infrastructure.dll
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\Newtonsoft.Json.dll
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\Owin.dll
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\System.Web.Helpers.dll
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\System.Web.Mvc.dll
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\System.Web.Optimization.dll
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\System.Web.Razor.dll
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\System.Web.WebPages.Deployment.dll
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\System.Web.WebPages.dll
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\System.Web.WebPages.Razor.dll
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\WebGrease.dll
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\Microsoft.AI.DependencyCollector.xml
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\Microsoft.AI.ServerTelemetryChannel.xml
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\Microsoft.AI.Web.xml
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\Microsoft.AI.WindowsServer.xml
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\Microsoft.ApplicationInsights.xml
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\System.Web.Helpers.xml
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\System.Web.Mvc.xml
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\System.Web.Optimization.xml
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\System.Web.Razor.xml
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\System.Web.WebPages.xml
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\System.Web.WebPages.Deployment.xml
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\System.Web.WebPages.Razor.xml
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\Antlr3.Runtime.pdb
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\Newtonsoft.Json.xml
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\EntityFramework.xml
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\EntityFramework.SqlServer.xml
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\Microsoft.AspNet.Identity.Core.xml
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\Microsoft.AspNet.Identity.Owin.xml
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\Microsoft.Owin.xml
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\Microsoft.Owin.Host.SystemWeb.xml
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\Microsoft.Owin.Security.xml
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\Microsoft.Owin.Security.Facebook.xml
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\Microsoft.Owin.Security.Cookies.xml
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\Microsoft.Owin.Security.OAuth.xml
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\Microsoft.Owin.Security.Google.xml
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\Microsoft.Owin.Security.Twitter.xml
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\obj\Debug\FullStack.dll
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\obj\Debug\FullStack.pdb
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\obj\Debug\FullStack.Migrations.InitialModel.resources
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\obj\Debug\FullStack.csproj.GenerateResource.Cache
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\obj\Debug\FullStack.Migrations.creategigtable.resources
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\obj\Debug\FullStack.Migrations.ocerrideconventionsforgigsandgenres.resources
-c:\Users\peter.vitez\Documents\Visual Studio 2015\Projects\FullStack\FullStack\obj\Debug\FullStack.Migrations.populategenrestable.resources
-C:\Users\peter.vitez\documents\visual studio 2015\Projects\FullStack\FullStack\obj\Debug\FullStack.Migrations.changeartistaccestype.resources
-C:\Users\peter.vitez\documents\visual studio 2015\Projects\FullStack\FullStack\obj\Debug\FullStack.Migrations.addforainkeygiggenre.resources
-C:\Users\peter.vitez\documents\visual studio 2015\Projects\FullStack\FullStack\obj\Debug\FullStack.Migrations.inttobyteingenre.resources
-D:\PluralSight\GigHub\FullStack\bin\ApplicationInsights.config
-D:\PluralSight\GigHub\FullStack\bin\roslyn\csc.exe
-D:\PluralSight\GigHub\FullStack\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-D:\PluralSight\GigHub\FullStack\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-D:\PluralSight\GigHub\FullStack\bin\roslyn\Microsoft.CodeAnalysis.dll
-D:\PluralSight\GigHub\FullStack\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-D:\PluralSight\GigHub\FullStack\bin\roslyn\Microsoft.CSharp.Core.targets
-D:\PluralSight\GigHub\FullStack\bin\roslyn\Microsoft.VisualBasic.Core.targets
-D:\PluralSight\GigHub\FullStack\bin\roslyn\System.Collections.Immutable.dll
-D:\PluralSight\GigHub\FullStack\bin\roslyn\System.Reflection.Metadata.dll
-D:\PluralSight\GigHub\FullStack\bin\roslyn\vbc.exe
-D:\PluralSight\GigHub\FullStack\bin\roslyn\VBCSCompiler.exe
-D:\PluralSight\GigHub\FullStack\bin\roslyn\VBCSCompiler.exe.config
-D:\PluralSight\GigHub\FullStack\bin\FullStack.dll.config
-D:\PluralSight\GigHub\FullStack\bin\FullStack.dll
-D:\PluralSight\GigHub\FullStack\bin\FullStack.pdb
-D:\PluralSight\GigHub\FullStack\bin\Antlr3.Runtime.dll
-D:\PluralSight\GigHub\FullStack\bin\EntityFramework.dll
-D:\PluralSight\GigHub\FullStack\bin\EntityFramework.SqlServer.dll
-D:\PluralSight\GigHub\FullStack\bin\Microsoft.AI.Agent.Intercept.dll
-D:\PluralSight\GigHub\FullStack\bin\Microsoft.AI.DependencyCollector.dll
-D:\PluralSight\GigHub\FullStack\bin\Microsoft.AI.PerfCounterCollector.dll
-D:\PluralSight\GigHub\FullStack\bin\Microsoft.AI.ServerTelemetryChannel.dll
-D:\PluralSight\GigHub\FullStack\bin\Microsoft.AI.Web.dll
-D:\PluralSight\GigHub\FullStack\bin\Microsoft.AI.WindowsServer.dll
-D:\PluralSight\GigHub\FullStack\bin\Microsoft.ApplicationInsights.dll
-D:\PluralSight\GigHub\FullStack\bin\Microsoft.AspNet.Identity.Core.dll
-D:\PluralSight\GigHub\FullStack\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-D:\PluralSight\GigHub\FullStack\bin\Microsoft.AspNet.Identity.Owin.dll
-D:\PluralSight\GigHub\FullStack\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-D:\PluralSight\GigHub\FullStack\bin\Microsoft.Owin.dll
-D:\PluralSight\GigHub\FullStack\bin\Microsoft.Owin.Host.SystemWeb.dll
-D:\PluralSight\GigHub\FullStack\bin\Microsoft.Owin.Security.Cookies.dll
-D:\PluralSight\GigHub\FullStack\bin\Microsoft.Owin.Security.dll
-D:\PluralSight\GigHub\FullStack\bin\Microsoft.Owin.Security.Facebook.dll
-D:\PluralSight\GigHub\FullStack\bin\Microsoft.Owin.Security.Google.dll
-D:\PluralSight\GigHub\FullStack\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-D:\PluralSight\GigHub\FullStack\bin\Microsoft.Owin.Security.OAuth.dll
-D:\PluralSight\GigHub\FullStack\bin\Microsoft.Owin.Security.Twitter.dll
-D:\PluralSight\GigHub\FullStack\bin\Microsoft.Web.Infrastructure.dll
-D:\PluralSight\GigHub\FullStack\bin\Newtonsoft.Json.dll
-D:\PluralSight\GigHub\FullStack\bin\Owin.dll
-D:\PluralSight\GigHub\FullStack\bin\System.Web.Helpers.dll
-D:\PluralSight\GigHub\FullStack\bin\System.Web.Mvc.dll
-D:\PluralSight\GigHub\FullStack\bin\System.Web.Optimization.dll
-D:\PluralSight\GigHub\FullStack\bin\System.Web.Razor.dll
-D:\PluralSight\GigHub\FullStack\bin\System.Web.WebPages.Deployment.dll
-D:\PluralSight\GigHub\FullStack\bin\System.Web.WebPages.dll
-D:\PluralSight\GigHub\FullStack\bin\System.Web.WebPages.Razor.dll
-D:\PluralSight\GigHub\FullStack\bin\WebGrease.dll
-D:\PluralSight\GigHub\FullStack\bin\Microsoft.AI.DependencyCollector.xml
-D:\PluralSight\GigHub\FullStack\bin\Microsoft.AI.ServerTelemetryChannel.xml
-D:\PluralSight\GigHub\FullStack\bin\Microsoft.AI.Web.xml
-D:\PluralSight\GigHub\FullStack\bin\Microsoft.AI.WindowsServer.xml
-D:\PluralSight\GigHub\FullStack\bin\Microsoft.ApplicationInsights.xml
-D:\PluralSight\GigHub\FullStack\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\PluralSight\GigHub\FullStack\bin\System.Web.Helpers.xml
-D:\PluralSight\GigHub\FullStack\bin\System.Web.Mvc.xml
-D:\PluralSight\GigHub\FullStack\bin\System.Web.Optimization.xml
-D:\PluralSight\GigHub\FullStack\bin\System.Web.Razor.xml
-D:\PluralSight\GigHub\FullStack\bin\System.Web.WebPages.xml
-D:\PluralSight\GigHub\FullStack\bin\System.Web.WebPages.Deployment.xml
-D:\PluralSight\GigHub\FullStack\bin\System.Web.WebPages.Razor.xml
-D:\PluralSight\GigHub\FullStack\bin\Antlr3.Runtime.pdb
-D:\PluralSight\GigHub\FullStack\bin\Newtonsoft.Json.xml
-D:\PluralSight\GigHub\FullStack\bin\EntityFramework.xml
-D:\PluralSight\GigHub\FullStack\bin\EntityFramework.SqlServer.xml
-D:\PluralSight\GigHub\FullStack\bin\Microsoft.AspNet.Identity.Core.xml
-D:\PluralSight\GigHub\FullStack\bin\Microsoft.AspNet.Identity.Owin.xml
-D:\PluralSight\GigHub\FullStack\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-D:\PluralSight\GigHub\FullStack\bin\Microsoft.Owin.xml
-D:\PluralSight\GigHub\FullStack\bin\Microsoft.Owin.Host.SystemWeb.xml
-D:\PluralSight\GigHub\FullStack\bin\Microsoft.Owin.Security.xml
-D:\PluralSight\GigHub\FullStack\bin\Microsoft.Owin.Security.Facebook.xml
-D:\PluralSight\GigHub\FullStack\bin\Microsoft.Owin.Security.Cookies.xml
-D:\PluralSight\GigHub\FullStack\bin\Microsoft.Owin.Security.OAuth.xml
-D:\PluralSight\GigHub\FullStack\bin\Microsoft.Owin.Security.Google.xml
-D:\PluralSight\GigHub\FullStack\bin\Microsoft.Owin.Security.Twitter.xml
-D:\PluralSight\GigHub\FullStack\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-D:\PluralSight\GigHub\FullStack\obj\Debug\FullStack.Migrations.InitialModel.resources
-D:\PluralSight\GigHub\FullStack\obj\Debug\FullStack.Migrations.creategigtable.resources
-D:\PluralSight\GigHub\FullStack\obj\Debug\FullStack.Migrations.ocerrideconventionsforgigsandgenres.resources
-D:\PluralSight\GigHub\FullStack\obj\Debug\FullStack.Migrations.populategenrestable.resources
-D:\PluralSight\GigHub\FullStack\obj\Debug\FullStack.Migrations.changeartistaccestype.resources
-D:\PluralSight\GigHub\FullStack\obj\Debug\FullStack.Migrations.addforainkeygiggenre.resources
-D:\PluralSight\GigHub\FullStack\obj\Debug\FullStack.Migrations.inttobyteingenre.resources
-D:\PluralSight\GigHub\FullStack\obj\Debug\FullStack.csproj.GenerateResource.Cache
-D:\PluralSight\GigHub\FullStack\obj\Debug\FullStack.dll
-D:\PluralSight\GigHub\FullStack\obj\Debug\FullStack.pdb
-D:\PluralSight\GigHub\FullStack\obj\Debug\FullStack.csprojResolveAssemblyReference.cache
-D:\PluralSight\GigHub\FullStack\obj\Debug\FullStack.csproj.CoreCompileInputs.cache
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/ApplicationInsights.config
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/roslyn/csc.exe
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/roslyn/Microsoft.CodeAnalysis.dll
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/roslyn/Microsoft.CSharp.Core.targets
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/roslyn/Microsoft.VisualBasic.Core.targets
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/roslyn/System.Collections.Immutable.dll
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/roslyn/System.Reflection.Metadata.dll
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/roslyn/vbc.exe
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/roslyn/VBCSCompiler.exe
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/roslyn/VBCSCompiler.exe.config
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/FullStack.dll.config
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/FullStack.dll
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/FullStack.pdb
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/Antlr3.Runtime.dll
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/EntityFramework.dll
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/EntityFramework.SqlServer.dll
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/Microsoft.AI.Agent.Intercept.dll
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/Microsoft.AI.DependencyCollector.dll
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/Microsoft.AI.PerfCounterCollector.dll
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/Microsoft.AI.ServerTelemetryChannel.dll
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/Microsoft.AI.Web.dll
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/Microsoft.AI.WindowsServer.dll
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/Microsoft.ApplicationInsights.dll
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/Microsoft.AspNet.Identity.Core.dll
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/Microsoft.AspNet.Identity.EntityFramework.dll
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/Microsoft.AspNet.Identity.Owin.dll
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/Microsoft.Owin.dll
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/Microsoft.Owin.Host.SystemWeb.dll
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/Microsoft.Owin.Security.Cookies.dll
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/Microsoft.Owin.Security.dll
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/Microsoft.Owin.Security.Facebook.dll
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/Microsoft.Owin.Security.Google.dll
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/Microsoft.Owin.Security.MicrosoftAccount.dll
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/Microsoft.Owin.Security.OAuth.dll
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/Microsoft.Owin.Security.Twitter.dll
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/Microsoft.Web.Infrastructure.dll
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/Newtonsoft.Json.dll
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/Owin.dll
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/System.Web.Helpers.dll
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/System.Web.Mvc.dll
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/System.Web.Optimization.dll
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/System.Web.Razor.dll
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/System.Web.WebPages.Deployment.dll
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/System.Web.WebPages.dll
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/System.Web.WebPages.Razor.dll
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/WebGrease.dll
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/Microsoft.AI.DependencyCollector.xml
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/Microsoft.AI.ServerTelemetryChannel.xml
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/Microsoft.AI.Web.xml
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/Microsoft.AI.WindowsServer.xml
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/Microsoft.ApplicationInsights.xml
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/System.Web.Helpers.xml
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/System.Web.Mvc.xml
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/System.Web.Optimization.xml
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/System.Web.Razor.xml
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/System.Web.WebPages.xml
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/System.Web.WebPages.Deployment.xml
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/System.Web.WebPages.Razor.xml
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/Antlr3.Runtime.pdb
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/Newtonsoft.Json.xml
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/EntityFramework.xml
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/EntityFramework.SqlServer.xml
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/Microsoft.AspNet.Identity.Core.xml
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/Microsoft.AspNet.Identity.Owin.xml
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/Microsoft.AspNet.Identity.EntityFramework.xml
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/Microsoft.Owin.xml
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/Microsoft.Owin.Host.SystemWeb.xml
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/Microsoft.Owin.Security.xml
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/Microsoft.Owin.Security.Facebook.xml
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/Microsoft.Owin.Security.Cookies.xml
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/Microsoft.Owin.Security.OAuth.xml
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/Microsoft.Owin.Security.Google.xml
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/Microsoft.Owin.Security.Twitter.xml
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/bin/Microsoft.Owin.Security.MicrosoftAccount.xml
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/obj/Debug/FullStack.dll
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/obj/Debug/FullStack.pdb
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/obj/Debug/FullStack.Migrations.InitialModel.resources
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/obj/Debug/FullStack.csproj.GenerateResource.Cache
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/obj/Debug/FullStack.Migrations.creategigtable.resources
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/obj/Debug/FullStack.Migrations.ocerrideconventionsforgigsandgenres.resources
+c:/Users/peter.vitez/Documents/Visual Studio 2015/Projects/FullStack/FullStack/obj/Debug/FullStack.Migrations.populategenrestable.resources
+C:/Users/peter.vitez/documents/visual studio 2015/Projects/FullStack/FullStack/obj/Debug/FullStack.Migrations.changeartistaccestype.resources
+C:/Users/peter.vitez/documents/visual studio 2015/Projects/FullStack/FullStack/obj/Debug/FullStack.Migrations.addforainkeygiggenre.resources
+C:/Users/peter.vitez/documents/visual studio 2015/Projects/FullStack/FullStack/obj/Debug/FullStack.Migrations.inttobyteingenre.resources
+D:/PluralSight/GigHub/FullStack/bin/ApplicationInsights.config
+D:/PluralSight/GigHub/FullStack/bin/roslyn/csc.exe
+D:/PluralSight/GigHub/FullStack/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+D:/PluralSight/GigHub/FullStack/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+D:/PluralSight/GigHub/FullStack/bin/roslyn/Microsoft.CodeAnalysis.dll
+D:/PluralSight/GigHub/FullStack/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+D:/PluralSight/GigHub/FullStack/bin/roslyn/Microsoft.CSharp.Core.targets
+D:/PluralSight/GigHub/FullStack/bin/roslyn/Microsoft.VisualBasic.Core.targets
+D:/PluralSight/GigHub/FullStack/bin/roslyn/System.Collections.Immutable.dll
+D:/PluralSight/GigHub/FullStack/bin/roslyn/System.Reflection.Metadata.dll
+D:/PluralSight/GigHub/FullStack/bin/roslyn/vbc.exe
+D:/PluralSight/GigHub/FullStack/bin/roslyn/VBCSCompiler.exe
+D:/PluralSight/GigHub/FullStack/bin/roslyn/VBCSCompiler.exe.config
+D:/PluralSight/GigHub/FullStack/bin/FullStack.dll.config
+D:/PluralSight/GigHub/FullStack/bin/FullStack.dll
+D:/PluralSight/GigHub/FullStack/bin/FullStack.pdb
+D:/PluralSight/GigHub/FullStack/bin/Antlr3.Runtime.dll
+D:/PluralSight/GigHub/FullStack/bin/EntityFramework.dll
+D:/PluralSight/GigHub/FullStack/bin/EntityFramework.SqlServer.dll
+D:/PluralSight/GigHub/FullStack/bin/Microsoft.AI.Agent.Intercept.dll
+D:/PluralSight/GigHub/FullStack/bin/Microsoft.AI.DependencyCollector.dll
+D:/PluralSight/GigHub/FullStack/bin/Microsoft.AI.PerfCounterCollector.dll
+D:/PluralSight/GigHub/FullStack/bin/Microsoft.AI.ServerTelemetryChannel.dll
+D:/PluralSight/GigHub/FullStack/bin/Microsoft.AI.Web.dll
+D:/PluralSight/GigHub/FullStack/bin/Microsoft.AI.WindowsServer.dll
+D:/PluralSight/GigHub/FullStack/bin/Microsoft.ApplicationInsights.dll
+D:/PluralSight/GigHub/FullStack/bin/Microsoft.AspNet.Identity.Core.dll
+D:/PluralSight/GigHub/FullStack/bin/Microsoft.AspNet.Identity.EntityFramework.dll
+D:/PluralSight/GigHub/FullStack/bin/Microsoft.AspNet.Identity.Owin.dll
+D:/PluralSight/GigHub/FullStack/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:/PluralSight/GigHub/FullStack/bin/Microsoft.Owin.dll
+D:/PluralSight/GigHub/FullStack/bin/Microsoft.Owin.Host.SystemWeb.dll
+D:/PluralSight/GigHub/FullStack/bin/Microsoft.Owin.Security.Cookies.dll
+D:/PluralSight/GigHub/FullStack/bin/Microsoft.Owin.Security.dll
+D:/PluralSight/GigHub/FullStack/bin/Microsoft.Owin.Security.Facebook.dll
+D:/PluralSight/GigHub/FullStack/bin/Microsoft.Owin.Security.Google.dll
+D:/PluralSight/GigHub/FullStack/bin/Microsoft.Owin.Security.MicrosoftAccount.dll
+D:/PluralSight/GigHub/FullStack/bin/Microsoft.Owin.Security.OAuth.dll
+D:/PluralSight/GigHub/FullStack/bin/Microsoft.Owin.Security.Twitter.dll
+D:/PluralSight/GigHub/FullStack/bin/Microsoft.Web.Infrastructure.dll
+D:/PluralSight/GigHub/FullStack/bin/Newtonsoft.Json.dll
+D:/PluralSight/GigHub/FullStack/bin/Owin.dll
+D:/PluralSight/GigHub/FullStack/bin/System.Web.Helpers.dll
+D:/PluralSight/GigHub/FullStack/bin/System.Web.Mvc.dll
+D:/PluralSight/GigHub/FullStack/bin/System.Web.Optimization.dll
+D:/PluralSight/GigHub/FullStack/bin/System.Web.Razor.dll
+D:/PluralSight/GigHub/FullStack/bin/System.Web.WebPages.Deployment.dll
+D:/PluralSight/GigHub/FullStack/bin/System.Web.WebPages.dll
+D:/PluralSight/GigHub/FullStack/bin/System.Web.WebPages.Razor.dll
+D:/PluralSight/GigHub/FullStack/bin/WebGrease.dll
+D:/PluralSight/GigHub/FullStack/bin/Microsoft.AI.DependencyCollector.xml
+D:/PluralSight/GigHub/FullStack/bin/Microsoft.AI.ServerTelemetryChannel.xml
+D:/PluralSight/GigHub/FullStack/bin/Microsoft.AI.Web.xml
+D:/PluralSight/GigHub/FullStack/bin/Microsoft.AI.WindowsServer.xml
+D:/PluralSight/GigHub/FullStack/bin/Microsoft.ApplicationInsights.xml
+D:/PluralSight/GigHub/FullStack/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:/PluralSight/GigHub/FullStack/bin/System.Web.Helpers.xml
+D:/PluralSight/GigHub/FullStack/bin/System.Web.Mvc.xml
+D:/PluralSight/GigHub/FullStack/bin/System.Web.Optimization.xml
+D:/PluralSight/GigHub/FullStack/bin/System.Web.Razor.xml
+D:/PluralSight/GigHub/FullStack/bin/System.Web.WebPages.xml
+D:/PluralSight/GigHub/FullStack/bin/System.Web.WebPages.Deployment.xml
+D:/PluralSight/GigHub/FullStack/bin/System.Web.WebPages.Razor.xml
+D:/PluralSight/GigHub/FullStack/bin/Antlr3.Runtime.pdb
+D:/PluralSight/GigHub/FullStack/bin/Newtonsoft.Json.xml
+D:/PluralSight/GigHub/FullStack/bin/EntityFramework.xml
+D:/PluralSight/GigHub/FullStack/bin/EntityFramework.SqlServer.xml
+D:/PluralSight/GigHub/FullStack/bin/Microsoft.AspNet.Identity.Core.xml
+D:/PluralSight/GigHub/FullStack/bin/Microsoft.AspNet.Identity.Owin.xml
+D:/PluralSight/GigHub/FullStack/bin/Microsoft.AspNet.Identity.EntityFramework.xml
+D:/PluralSight/GigHub/FullStack/bin/Microsoft.Owin.xml
+D:/PluralSight/GigHub/FullStack/bin/Microsoft.Owin.Host.SystemWeb.xml
+D:/PluralSight/GigHub/FullStack/bin/Microsoft.Owin.Security.xml
+D:/PluralSight/GigHub/FullStack/bin/Microsoft.Owin.Security.Facebook.xml
+D:/PluralSight/GigHub/FullStack/bin/Microsoft.Owin.Security.Cookies.xml
+D:/PluralSight/GigHub/FullStack/bin/Microsoft.Owin.Security.OAuth.xml
+D:/PluralSight/GigHub/FullStack/bin/Microsoft.Owin.Security.Google.xml
+D:/PluralSight/GigHub/FullStack/bin/Microsoft.Owin.Security.Twitter.xml
+D:/PluralSight/GigHub/FullStack/bin/Microsoft.Owin.Security.MicrosoftAccount.xml
+D:/PluralSight/GigHub/FullStack/obj/Debug/FullStack.Migrations.InitialModel.resources
+D:/PluralSight/GigHub/FullStack/obj/Debug/FullStack.Migrations.creategigtable.resources
+D:/PluralSight/GigHub/FullStack/obj/Debug/FullStack.Migrations.ocerrideconventionsforgigsandgenres.resources
+D:/PluralSight/GigHub/FullStack/obj/Debug/FullStack.Migrations.populategenrestable.resources
+D:/PluralSight/GigHub/FullStack/obj/Debug/FullStack.Migrations.changeartistaccestype.resources
+D:/PluralSight/GigHub/FullStack/obj/Debug/FullStack.Migrations.addforainkeygiggenre.resources
+D:/PluralSight/GigHub/FullStack/obj/Debug/FullStack.Migrations.inttobyteingenre.resources
+D:/PluralSight/GigHub/FullStack/obj/Debug/FullStack.csproj.GenerateResource.Cache
+D:/PluralSight/GigHub/FullStack/obj/Debug/FullStack.dll
+D:/PluralSight/GigHub/FullStack/obj/Debug/FullStack.pdb
+D:/PluralSight/GigHub/FullStack/obj/Debug/FullStack.csprojResolveAssemblyReference.cache
+D:/PluralSight/GigHub/FullStack/obj/Debug/FullStack.csproj.CoreCompileInputs.cache
+/Users/vitez/PluralSight/GigHub/FullStack/obj/Debug/FullStack.csprojResolveAssemblyReference.cache
+/Users/vitez/PluralSight/GigHub/FullStack/obj/Debug/FullStack.Migrations.InitialModel.resources
+/Users/vitez/PluralSight/GigHub/FullStack/obj/Debug/FullStack.Migrations.creategigtable.resources
+/Users/vitez/PluralSight/GigHub/FullStack/obj/Debug/FullStack.Migrations.ocerrideconventionsforgigsandgenres.resources
+/Users/vitez/PluralSight/GigHub/FullStack/obj/Debug/FullStack.Migrations.populategenrestable.resources
+/Users/vitez/PluralSight/GigHub/FullStack/obj/Debug/FullStack.Migrations.changeartistaccestype.resources
+/Users/vitez/PluralSight/GigHub/FullStack/obj/Debug/FullStack.Migrations.addforainkeygiggenre.resources
+/Users/vitez/PluralSight/GigHub/FullStack/obj/Debug/FullStack.Migrations.inttobyteingenre.resources
+/Users/vitez/PluralSight/GigHub/FullStack/obj/Debug/FullStack.csproj.GenerateResource.Cache
+/Users/vitez/PluralSight/GigHub/FullStack/obj/Debug/FullStack.csproj.CoreCompileInputs.cache
+/Users/vitez/PluralSight/GigHub/FullStack/obj/Debug/FullStack.dll
+/Users/vitez/PluralSight/GigHub/FullStack/bin/ApplicationInsights.config
+/Users/vitez/PluralSight/GigHub/FullStack/bin/roslyn/csc.exe
+/Users/vitez/PluralSight/GigHub/FullStack/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/Users/vitez/PluralSight/GigHub/FullStack/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/Users/vitez/PluralSight/GigHub/FullStack/bin/roslyn/Microsoft.CodeAnalysis.dll
+/Users/vitez/PluralSight/GigHub/FullStack/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/vitez/PluralSight/GigHub/FullStack/bin/roslyn/Microsoft.CSharp.Core.targets
+/Users/vitez/PluralSight/GigHub/FullStack/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/Users/vitez/PluralSight/GigHub/FullStack/bin/roslyn/System.Collections.Immutable.dll
+/Users/vitez/PluralSight/GigHub/FullStack/bin/roslyn/System.Reflection.Metadata.dll
+/Users/vitez/PluralSight/GigHub/FullStack/bin/roslyn/vbc.exe
+/Users/vitez/PluralSight/GigHub/FullStack/bin/roslyn/VBCSCompiler.exe
+/Users/vitez/PluralSight/GigHub/FullStack/bin/roslyn/VBCSCompiler.exe.config
+/Users/vitez/PluralSight/GigHub/FullStack/bin/FullStack.dll
+/Users/vitez/PluralSight/GigHub/FullStack/bin/Antlr3.Runtime.dll
+/Users/vitez/PluralSight/GigHub/FullStack/bin/EntityFramework.dll
+/Users/vitez/PluralSight/GigHub/FullStack/bin/EntityFramework.SqlServer.dll
+/Users/vitez/PluralSight/GigHub/FullStack/bin/Microsoft.AI.Agent.Intercept.dll
+/Users/vitez/PluralSight/GigHub/FullStack/bin/Microsoft.AI.DependencyCollector.dll
+/Users/vitez/PluralSight/GigHub/FullStack/bin/Microsoft.AI.PerfCounterCollector.dll
+/Users/vitez/PluralSight/GigHub/FullStack/bin/Microsoft.AI.ServerTelemetryChannel.dll
+/Users/vitez/PluralSight/GigHub/FullStack/bin/Microsoft.AI.Web.dll
+/Users/vitez/PluralSight/GigHub/FullStack/bin/Microsoft.AI.WindowsServer.dll
+/Users/vitez/PluralSight/GigHub/FullStack/bin/Microsoft.ApplicationInsights.dll
+/Users/vitez/PluralSight/GigHub/FullStack/bin/Microsoft.AspNet.Identity.Core.dll
+/Users/vitez/PluralSight/GigHub/FullStack/bin/Microsoft.AspNet.Identity.EntityFramework.dll
+/Users/vitez/PluralSight/GigHub/FullStack/bin/Microsoft.AspNet.Identity.Owin.dll
+/Users/vitez/PluralSight/GigHub/FullStack/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/vitez/PluralSight/GigHub/FullStack/bin/Microsoft.Owin.dll
+/Users/vitez/PluralSight/GigHub/FullStack/bin/Microsoft.Owin.Host.SystemWeb.dll
+/Users/vitez/PluralSight/GigHub/FullStack/bin/Microsoft.Owin.Security.Cookies.dll
+/Users/vitez/PluralSight/GigHub/FullStack/bin/Microsoft.Owin.Security.dll
+/Users/vitez/PluralSight/GigHub/FullStack/bin/Microsoft.Owin.Security.Facebook.dll
+/Users/vitez/PluralSight/GigHub/FullStack/bin/Microsoft.Owin.Security.Google.dll
+/Users/vitez/PluralSight/GigHub/FullStack/bin/Microsoft.Owin.Security.MicrosoftAccount.dll
+/Users/vitez/PluralSight/GigHub/FullStack/bin/Microsoft.Owin.Security.OAuth.dll
+/Users/vitez/PluralSight/GigHub/FullStack/bin/Microsoft.Owin.Security.Twitter.dll
+/Users/vitez/PluralSight/GigHub/FullStack/bin/Microsoft.Web.Infrastructure.dll
+/Users/vitez/PluralSight/GigHub/FullStack/bin/Newtonsoft.Json.dll
+/Users/vitez/PluralSight/GigHub/FullStack/bin/Owin.dll
+/Users/vitez/PluralSight/GigHub/FullStack/bin/System.Web.Helpers.dll
+/Users/vitez/PluralSight/GigHub/FullStack/bin/System.Web.Mvc.dll
+/Users/vitez/PluralSight/GigHub/FullStack/bin/System.Web.Optimization.dll
+/Users/vitez/PluralSight/GigHub/FullStack/bin/System.Web.Razor.dll
+/Users/vitez/PluralSight/GigHub/FullStack/bin/System.Web.WebPages.Deployment.dll
+/Users/vitez/PluralSight/GigHub/FullStack/bin/System.Web.WebPages.dll
+/Users/vitez/PluralSight/GigHub/FullStack/bin/System.Web.WebPages.Razor.dll
+/Users/vitez/PluralSight/GigHub/FullStack/bin/WebGrease.dll
+/Users/vitez/PluralSight/GigHub/FullStack/bin/Microsoft.AI.DependencyCollector.xml
+/Users/vitez/PluralSight/GigHub/FullStack/bin/Microsoft.AI.ServerTelemetryChannel.xml
+/Users/vitez/PluralSight/GigHub/FullStack/bin/Microsoft.AI.Web.xml
+/Users/vitez/PluralSight/GigHub/FullStack/bin/Microsoft.AI.WindowsServer.xml
+/Users/vitez/PluralSight/GigHub/FullStack/bin/Microsoft.ApplicationInsights.xml
+/Users/vitez/PluralSight/GigHub/FullStack/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/vitez/PluralSight/GigHub/FullStack/bin/System.Web.Helpers.xml
+/Users/vitez/PluralSight/GigHub/FullStack/bin/System.Web.Mvc.xml
+/Users/vitez/PluralSight/GigHub/FullStack/bin/System.Web.Optimization.xml
+/Users/vitez/PluralSight/GigHub/FullStack/bin/System.Web.Razor.xml
+/Users/vitez/PluralSight/GigHub/FullStack/bin/System.Web.WebPages.xml
+/Users/vitez/PluralSight/GigHub/FullStack/bin/System.Web.WebPages.Deployment.xml
+/Users/vitez/PluralSight/GigHub/FullStack/bin/System.Web.WebPages.Razor.xml
+/Users/vitez/PluralSight/GigHub/FullStack/bin/Antlr3.Runtime.pdb
+/Users/vitez/PluralSight/GigHub/FullStack/bin/Newtonsoft.Json.xml
+/Users/vitez/PluralSight/GigHub/FullStack/bin/EntityFramework.xml
+/Users/vitez/PluralSight/GigHub/FullStack/bin/EntityFramework.SqlServer.xml
+/Users/vitez/PluralSight/GigHub/FullStack/bin/Microsoft.AspNet.Identity.Core.xml
+/Users/vitez/PluralSight/GigHub/FullStack/bin/Microsoft.AspNet.Identity.Owin.xml
+/Users/vitez/PluralSight/GigHub/FullStack/bin/Microsoft.AspNet.Identity.EntityFramework.xml
+/Users/vitez/PluralSight/GigHub/FullStack/bin/Microsoft.Owin.xml
+/Users/vitez/PluralSight/GigHub/FullStack/bin/Microsoft.Owin.Host.SystemWeb.xml
+/Users/vitez/PluralSight/GigHub/FullStack/bin/Microsoft.Owin.Security.xml
+/Users/vitez/PluralSight/GigHub/FullStack/bin/Microsoft.Owin.Security.Facebook.xml
+/Users/vitez/PluralSight/GigHub/FullStack/bin/Microsoft.Owin.Security.Cookies.xml
+/Users/vitez/PluralSight/GigHub/FullStack/bin/Microsoft.Owin.Security.OAuth.xml
+/Users/vitez/PluralSight/GigHub/FullStack/bin/Microsoft.Owin.Security.Google.xml
+/Users/vitez/PluralSight/GigHub/FullStack/bin/Microsoft.Owin.Security.Twitter.xml
+/Users/vitez/PluralSight/GigHub/FullStack/bin/Microsoft.Owin.Security.MicrosoftAccount.xml

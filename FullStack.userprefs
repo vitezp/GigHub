@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{A707EE62-6DD6-45F0-ACD3-25E467D45F96}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FullStack/Content/Site.css">
+    <Files>
+      <File FileName="FullStack/Controllers/GigsController.cs" Line="24" Column="35" />
+      <File FileName="FullStack/Models/ApplicationUser.cs" Line="1" Column="1" />
+      <File FileName="FullStack/Web.Debug.config" Line="15" Column="7" />
+      <File FileName="FullStack/Web.Release.config" Line="15" Column="7" />
+      <File FileName="FullStack/Web.config" Line="11" Column="4" />
+      <File FileName="FullStack/Views/Gigs/Create.cshtml" Line="8" Column="5" />
+      <File FileName="FullStack/Content/Site.css" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FullStack PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
