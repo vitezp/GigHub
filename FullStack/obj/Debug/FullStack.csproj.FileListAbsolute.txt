@@ -177,3 +177,4 @@ D:\PluralSight\GigHub\FullStack\obj\Debug\FullStack.csproj.GenerateResource.Cach
 D:\PluralSight\GigHub\FullStack\obj\Debug\FullStack.dll
 D:\PluralSight\GigHub\FullStack\obj\Debug\FullStack.pdb
 D:\PluralSight\GigHub\FullStack\obj\Debug\FullStack.csprojResolveAssemblyReference.cache
+D:\PluralSight\GigHub\FullStack\obj\Debug\FullStack.csproj.CoreCompileInputs.cache
